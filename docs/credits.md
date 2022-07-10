@@ -157,7 +157,7 @@
         <a href="https://github.com/k073l">
             <img src="https://avatars.githubusercontent.com/u/21180271?v=4" width="80;" alt="k073l"/>
             <br />
-            <sub><b>k073l</b></sub>
+            <sub><b>K073l</b></sub>
         </a>
     </td>
     <td align="center">
