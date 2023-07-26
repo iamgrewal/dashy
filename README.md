@@ -5,7 +5,7 @@
    <br/>
   <img width="120" src="https://i.ibb.co/yhbt6CY/dashy.png" />
   <br/>
-  <b><a href="./docs/showcase.md">User Showcase</a></b> | <b><a href="https://demo.dashy.to">Live Demo</a></b> | <b><a href="./docs/quick-start.md">Getting Started</a></b> | <b><a href="https://dashy.to/docs">Documentation</a></b> | <b><a href="https://github.com/Lissy93/dashy">GitHub</a></b>
+  <b><a href="./docs/showcase.md">User Showcase</a></b> | <b><a href="https://demo.dashy.to">Live Demo</a></b> | <b><a href="./docs/quick-start.md">Getting Started</a></b> | <b><a href="https://dashy.to/docs">Documentation</a></b> | <b><a href="https://github.com/iamgrewal/dashy">GitHub</a></b>
   <br/><br/>
   <a href="https://github.com/awesome-selfhosted/awesome-selfhosted#personal-dashboards">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Self-Hosted">
@@ -14,16 +14,16 @@
     <img src="https://img.shields.io/badge/License-MIT-0aa8d2?logo=opensourceinitiative&logoColor=fff" alt="License MIT">
   </a>
   <a href="./.github/CHANGELOG.md">
-    <img src="https://img.shields.io/github/package-json/v/lissy93/dashy?logo=azurepipelines&amp;color=0aa8d2" alt="Current Version">
+    <img src="https://img.shields.io/github/package-json/v/iamgrewal/dashy?logo=azurepipelines&amp;color=0aa8d2" alt="Current Version">
   </a>
-  <a href="https://hub.docker.com/r/lissy93/dashy">
-    <img src="https://img.shields.io/docker/pulls/lissy93/dashy?logo=docker&color=0aa8d2&logoColor=fff" alt="Docker Pulls">
+  <a href="https://hub.docker.com/r/iamgrewal/dashy">
+    <img src="https://img.shields.io/docker/pulls/iamgrewal/dashy?logo=docker&color=0aa8d2&logoColor=fff" alt="Docker Pulls">
   </a>
   <a href="http://as93.link/dashy-build-status">
-   <img src="https://badgen.net/github/status/lissy93/dashy?icon=github" alt="GitHub Status">
+   <img src="https://badgen.net/github/status/iamgrewal/dashy?icon=github" alt="GitHub Status">
   </a>
-  <a href="https://snyk.io/test/github/lissy93/dashy">
-    <img src="https://snyk.io/test/github/lissy93/dashy/badge.svg" alt="Known Vulnerabilities">
+  <a href="https://snyk.io/test/github/iamgrewal/dashy">
+    <img src="https://snyk.io/test/github/iamgrewal/dashy/badge.svg" alt="Known Vulnerabilities">
   </a>
 </p>
 
@@ -95,7 +95,7 @@
 
 **Screenshots**: Checkout the [Showcase](./docs/showcase.md), to see example dashboards from the community
 
-**Spin up your own demo**: [![One-Click Deploy with PWD](https://img.shields.io/badge/Play--with--Docker-Deploy-2496ed?style=flat-square&logo=docker)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/Lissy93/dashy/master/docker-compose.yml) or [`docker run -p 8080:80 lissy93/dashy`](./docs/quick-start.md)
+**Spin up your own demo**: [![One-Click Deploy with PWD](https://img.shields.io/badge/Play--with--Docker-Deploy-2496ed?style=flat-square&logo=docker)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/iamgrewal/dashy/master/docker-compose.yml) or [`docker run -p 8080:80 iamgrewal/dashy`](./docs/quick-start.md)
 
 
 <p align="center">
@@ -116,7 +116,7 @@
 You will need [Docker](https://docs.docker.com/get-docker/) installed on your system
 
 ```
-docker run -p 8080:80 lissy93/dashy
+docker run -p 8080:80 iamgrewal/dashy
 ```
 
 Or
@@ -127,9 +127,9 @@ docker run -d \
   -v /root/my-local-conf.yml:/app/public/conf.yml \
   --name my-dashboard \
   --restart=always \
-  lissy93/dashy:latest
+  iamgrewal/dashy:latest
 ```
-[![Dashy on Docker Hub](https://dockeri.co/image/lissy93/dashy)](https://hub.docker.com/r/lissy93/dashy)
+[![Dashy on Docker Hub](https://dockeri.co/image/iamgrewal/dashy)](https://hub.docker.com/r/iamgrewal/dashy)
 
 See also: [examples with Docker Compose](./docs/deployment.md#using-docker-compose). Dashy is also available via GHCR, and tags for other architectures (`arm32v7`, `arm64v8`, etc.) and set versions are supported
 
@@ -139,7 +139,7 @@ See also: [examples with Docker Compose](./docs/deployment.md#using-docker-compo
 
 You will need [git](https://git-scm.com/downloads), the latest or LTS version of [Node.js](https://nodejs.org/) and _(optionally)_ [Yarn](https://yarnpkg.com/) installed on your system.
 
-- Clone the Repo: `git clone https://github.com/Lissy93/dashy.git` and `cd dashy`
+- Clone the Repo: `git clone https://github.com/iamgrewal/dashy.git` and `cd dashy`
 - Configuration: Fill in your settings in `./public/conf.yml`
 - Install dependencies: `yarn`
 - Build: `yarn build`
@@ -150,12 +150,12 @@ You will need [git](https://git-scm.com/downloads), the latest or LTS version of
 ### Deploy to the Cloud ☁️
 
 Dashy supports **1-Click deployments** on several popular cloud platforms. To spin up a new instance, just click a link below:
-- [<img src="https://i.ibb.co/ZxtzrP3/netlify.png" width="18"/> Deploy to Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/lissy93/dashy)
-- [<img src="https://i.ibb.co/d2P1WZ7/heroku.png" width="18"/> Deploy to Heroku](https://heroku.com/deploy?template=https://github.com/Lissy93/dashy)
-- [<img src="https://i.ibb.co/Ld2FZzb/vercel.png" width="18"/> Deploy to Vercel](https://vercel.com/new/project?template=https://github.com/lissy93/dashy)
-- [<img src="https://i.ibb.co/xCHtzgh/render.png" width="18"/> Deploy to Render](https://render.com/deploy?repo=https://github.com/lissy93/dashy/tree/deploy_render)
-- [<img src="https://i.ibb.co/J7MGymY/googlecloud.png" width="18"/> Deploy to GCP](https://deploy.cloud.run/?git_repo=https://github.com/lissy93/dashy.git)
-- [<img src="https://i.ibb.co/HVWVYF7/docker.png" width="18"/> Deploy to PWD](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/Lissy93/dashy/master/docker-compose.yml)
+- [<img src="https://i.ibb.co/ZxtzrP3/netlify.png" width="18"/> Deploy to Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/iamgrewal/dashy)
+- [<img src="https://i.ibb.co/d2P1WZ7/heroku.png" width="18"/> Deploy to Heroku](https://heroku.com/deploy?template=https://github.com/iamgrewal/dashy)
+- [<img src="https://i.ibb.co/Ld2FZzb/vercel.png" width="18"/> Deploy to Vercel](https://vercel.com/new/project?template=https://github.com/iamgrewal/dashy)
+- [<img src="https://i.ibb.co/xCHtzgh/render.png" width="18"/> Deploy to Render](https://render.com/deploy?repo=https://github.com/iamgrewal/dashy/tree/deploy_render)
+- [<img src="https://i.ibb.co/J7MGymY/googlecloud.png" width="18"/> Deploy to GCP](https://deploy.cloud.run/?git_repo=https://github.com/iamgrewal/dashy.git)
+- [<img src="https://i.ibb.co/HVWVYF7/docker.png" width="18"/> Deploy to PWD](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/iamgrewal/dashy/master/docker-compose.yml)
 
 > For more 1-click cloud deployments, see [Cloud Deployment](./docs/deployment.md#deploy-to-cloud-service)
 
@@ -181,13 +181,13 @@ Dashy comes pre-bundled with several built-in themes, which you can preview, app
 
 <p align="center">
   <a href="https://i.ibb.co/BVSHV1v/dashy-themes-slideshow.gif">
-    <img alt="Example Themes" src="https://raw.githubusercontent.com/Lissy93/dashy/master/docs/assets/theme-slideshow.gif" width="400" />
+    <img alt="Example Themes" src="https://raw.githubusercontent.com/iamgrewal/dashy/master/docs/assets/theme-slideshow.gif" width="400" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://i.ibb.co/cLDXj1R/dashy-theme-configurator.gif">
-    <img alt="Example Themes" src="https://raw.githubusercontent.com/Lissy93/dashy/master/docs/assets/theme-config-demo.gif" width="400" />
+    <img alt="Example Themes" src="https://raw.githubusercontent.com/iamgrewal/dashy/master/docs/assets/theme-config-demo.gif" width="400" />
   </a>
 </p>
 
@@ -235,7 +235,7 @@ Dashy has an optional feature to check if each app/ service is up and responding
 Status indicators can be globally enabled by setting `appConfig.statusCheck: true` or enabled/ disabled on a per-item basis. Status is checked on page load, but you can allow continuous polling by specifying a time interval between checks, in seconds under `appConfig.statusCheckInterval`. You can also use a different endpoint for status checking, with `statusCheckUrl`, and if needed, pass in custom headers under `statusCheckHeaders`.
 
 <p align="center">
-  <img alt="Status Checks demo" src="https://raw.githubusercontent.com/Lissy93/dashy/master/docs/assets/status-check-demo.gif" width="600" />
+  <img alt="Status Checks demo" src="https://raw.githubusercontent.com/iamgrewal/dashy/master/docs/assets/status-check-demo.gif" width="600" />
 </p>
 
 **[⬆️ Back to Top](#dashy)**
@@ -292,12 +292,12 @@ You can change the view from the UI, using the switch icon in the top-right corn
 
 <p align="center">
   <b>Example of Workspace View</b><br>
-  <img alt="Workspace view demo" src="https://raw.githubusercontent.com/Lissy93/dashy/master/docs/assets/workspace-demo.gif" width="600" />
+  <img alt="Workspace view demo" src="https://raw.githubusercontent.com/iamgrewal/dashy/master/docs/assets/workspace-demo.gif" width="600" />
 </p>
 
 <p align="center">
   <b>Example of Minimal View</b><br>
-  <img alt="Workspace view demo" src="https://raw.githubusercontent.com/Lissy93/dashy/master/docs/assets/minimal-view-demo.gif" width="600" />
+  <img alt="Workspace view demo" src="https://raw.githubusercontent.com/iamgrewal/dashy/master/docs/assets/minimal-view-demo.gif" width="600" />
 </p>
 
 **[⬆️ Back to Top](#dashy)**
@@ -480,11 +480,11 @@ Latest ✔ | Latest ✔ | 10+ ✔ | Latest ✔ | 6.1+ ❌ |
 
 ## Support 🙋‍♀️
 
-If you're having trouble getting Dashy up and running, or have a question about usage or configuration, feel free to ask. The best place to do this is via [the Discussions](https://github.com/Lissy93/dashy/discussions).
+If you're having trouble getting Dashy up and running, or have a question about usage or configuration, feel free to ask. The best place to do this is via [the Discussions](https://github.com/iamgrewal/dashy/discussions).
 
-If you've found something which isn't working as it should, please raise a bug by [opening a ticket](https://github.com/Lissy93/dashy/issues/new/choose).
+If you've found something which isn't working as it should, please raise a bug by [opening a ticket](https://github.com/iamgrewal/dashy/issues/new/choose).
 
-It's best to check the [docs](./docs), [previous issues](https://github.com/Lissy93/dashy/issues?q=label%3A%22%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8%8F+Question%22+) and [troubleshooting guide](./docs/troubleshooting.md) first.
+It's best to check the [docs](./docs), [previous issues](https://github.com/iamgrewal/dashy/issues?q=label%3A%22%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8%8F+Question%22+) and [troubleshooting guide](./docs/troubleshooting.md) first.
 
 **[⬆️ Back to Top](#dashy)**
 
