@@ -524,7 +524,7 @@ Huge thanks to the sponsors helping to support Dashy's development!
 <!-- readme: sponsors -end -->
 
 #### Contributors
-[![Auto-generated contributors](https://raw.githubusercontent.com/Lissy93/dashy/master/docs/assets/CONTRIBUTORS.svg)](./docs/credits.md)
+[![Auto-generated contributors](https://raw.githubusercontent.com/iamgrewal/dashy/master/docs/assets/CONTRIBUTORS.svg)](./docs/credits.md)
 
 **[⬆️ Back to Top](#dashy)**
 
@@ -534,28 +534,28 @@ Huge thanks to the sponsors helping to support Dashy's development!
 
 > For full development documentation, see: [**Developing**](./docs/developing.md)
 
-[![Open Project in VS Code](https://img.shields.io/badge/Open_in-VS_Code-863cfc?style=flat-square&logo=visualstudiocode)](https://open.vscode.dev/Lissy93/Dashy)
-[![Open in GitPod](https://img.shields.io/badge/Open_in-GitPod-ffae33?style=flat-square&logo=gitpod)](https://gitpod.io/#github.com/lissy93/dashy.git)
-[![Open in GitHub Code Spaces](https://img.shields.io/badge/Open_in-Code%20Spaces-131313?style=flat-square&logo=github)](https://github.dev/Lissy93/dashy)
+[![Open Project in VS Code](https://img.shields.io/badge/Open_in-VS_Code-863cfc?style=flat-square&logo=visualstudiocode)](https://open.vscode.dev/iamgrewal/Dashy)
+[![Open in GitPod](https://img.shields.io/badge/Open_in-GitPod-ffae33?style=flat-square&logo=gitpod)](https://gitpod.io/#github.com/iamgrewal/dashy.git)
+[![Open in GitHub Code Spaces](https://img.shields.io/badge/Open_in-Code%20Spaces-131313?style=flat-square&logo=github)](https://github.dev/iamgrewal/dashy)
 
 Before getting started, you'll need [Git](https://git-scm.com/downloads), [Node](https://nodejs.org/en/download/) and optionally [Yarn](https://yarnpkg.com/) (run `npm i -g yarn`) installed.
 
 To set up the development environment:
-1. Get Code: `git clone https://github.com/Lissy93/dashy.git`  and `cd dashy`
+1. Get Code: `git clone https://github.com/iamgrewal/dashy.git`  and `cd dashy`
 2. Install dependencies: `yarn`
 3. Start dev server: `yarn dev`
 4. Open the browser: `http://localhost:8080`
 
 When you're ready, you can build the production app with `yarn build`, and then run it with `yarn start`
 
-If you're new to web development, I've put together a short [list of resources](https://github.com/Lissy93/dashy/blob/master/docs/developing.md#resources-for-beginners) to help beginners get started
+If you're new to web development, I've put together a short [list of resources](https://github.com/iamgrewal/dashy/blob/master/docs/developing.md#resources-for-beginners) to help beginners get started
 
 **Repo Status**:
-[![Open PRs](https://flat.badgen.net/github/open-prs/lissy93/dashy?icon=github)](https://github.com/Lissy93/dashy/pulls)
-[![Total PRs](https://flat.badgen.net/github/prs/lissy93/dashy?icon=github)](https://github.com/Lissy93/dashy/pulls?q=)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/lissy93/dashy?style=flat-square)](https://github.com/Lissy93/dashy/commits/master)
-[![Last Commit](https://flat.badgen.net/github/last-commit/lissy93/dashy?icon=github)](https://github.com/Lissy93/dashy/commits/master)
-[![Contributors](https://flat.badgen.net/github/contributors/lissy93/dashy?icon=github)](https://github.com/Lissy93/dashy/graphs/contributors)
+[![Open PRs](https://flat.badgen.net/github/open-prs/iamgrewal/dashy?icon=github)](https://github.com/iamgrewal/dashy/pulls)
+[![Total PRs](https://flat.badgen.net/github/prs/iamgrewal/dashy?icon=github)](https://github.com/iamgrewal/dashy/pulls?q=)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/iamgrewal/dashy?style=flat-square)](https://github.com/iamgrewal/dashy/commits/master)
+[![Last Commit](https://flat.badgen.net/github/last-commit/iamgrewal/dashy?icon=github)](https://github.com/iamgrewal/dashy/commits/master)
+[![Contributors](https://flat.badgen.net/github/contributors/iamgrewal/dashy?icon=github)](https://github.com/iamgrewal/dashy/graphs/contributors)
 
 **[⬆️ Back to Top](#dashy)**
 
