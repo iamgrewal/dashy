@@ -35,6 +35,7 @@ BOZG <sr@bozg.se> - 2 commits
 Brendan O&#39;Leary <boleary@gitlab.com> - 2 commits
 CHAIYEON CHO <stoutcho21@gmail.com> - 2 commits
 Dan Gilbert <ddg@daentech.co.uk> - 2 commits
+Jatinder Grewal <iamgrewal@gmail.com> - 2 commits
 Ruben Silva <rubensilva945@gmail.com> - 2 commits
 dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> - 2 commits
 k073l <21180271+k073l@users.noreply.github.com> - 2 commits
@@ -60,8 +61,8 @@ aterox <church.kennetha@gmail.com> - 19 commits
 EVOTk <45015615+EVOTk@users.noreply.github.com> - 22 commits
 Marcell Fülöp <marekful@protonmail.com> - 24 commits
 Alicia Bot <87835202+liss-bot@users.noreply.github.com> - 86 commits
-github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 86 commits
-repo-visualizer <repo-visualizer@users.noreply.github.com> - 98 commits
+github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 88 commits
+repo-visualizer <repo-visualizer@users.noreply.github.com> - 99 commits
 liss-bot <liss-bot@d0h.co> - 103 commits
 Alicia Sykes <alicia@omg.lol> - 138 commits
 Alicia Sykes <gh@d0h.co> - 435 commits
