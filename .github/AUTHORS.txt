@@ -22,6 +22,7 @@ Shreya Roy <shreyaroy.2604@gmail.com> - 1 commits
 Singebob <jeremy.chauvin@systeme-u.fr> - 1 commits
 Steven Kast <steven.m.kast@gmail.com> - 1 commits
 Xert <xertdev@gmail.com> - 1 commits
+dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> - 1 commits
 dr460nf1r3 <njcrypted@protonmail.com> - 1 commits
 iamgrewal <iamgrewal@users.noreply.github.com> - 1 commits
 icy-comet <50461557+icy-comet@users.noreply.github.com> - 1 commits
@@ -37,7 +38,6 @@ CHAIYEON CHO <stoutcho21@gmail.com> - 2 commits
 Dan Gilbert <ddg@daentech.co.uk> - 2 commits
 Jatinder Grewal <iamgrewal@gmail.com> - 2 commits
 Ruben Silva <rubensilva945@gmail.com> - 2 commits
-dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> - 2 commits
 k073l <21180271+k073l@users.noreply.github.com> - 2 commits
 patrickheeney <patrickheeney@gmail.com> - 2 commits
 ᗪєνιη ᗷυнʟ <onedr0p@users.noreply.github.com> - 2 commits
@@ -63,7 +63,7 @@ Marcell Fülöp <marekful@protonmail.com> - 24 commits
 Alicia Bot <87835202+liss-bot@users.noreply.github.com> - 86 commits
 liss-bot <liss-bot@d0h.co> - 106 commits
 Alicia Sykes <alicia@omg.lol> - 138 commits
-github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 167 commits
-repo-visualizer <repo-visualizer@users.noreply.github.com> - 168 commits
+github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 168 commits
+repo-visualizer <repo-visualizer@users.noreply.github.com> - 169 commits
 Alicia Sykes <gh@d0h.co> - 435 commits
 Alicia Sykes <sykes.alicia@gmail.com> - 1403 commits
