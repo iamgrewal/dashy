@@ -51,7 +51,7 @@ Alicie <gh@d0h.co> - 5 commits
 UrekD <urek.denis@gmail.com> - 5 commits
 Erik Vroon <erik.vroon22@gmail.com> - 6 commits
 Leonardo Covarrubias <leos@leocov.com> - 6 commits
-dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> - 7 commits
+dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> - 6 commits
 Kashif Sohail <kashif.ezone@gmail.com> - 9 commits
 Alicia Sykes <alicia@futr.ai> - 10 commits
 Alejandro Pinar Ruiz <alejandropinarruiz@gmail.com> - 14 commits
@@ -63,7 +63,7 @@ Marcell Fülöp <marekful@protonmail.com> - 24 commits
 Alicia Bot <87835202+liss-bot@users.noreply.github.com> - 86 commits
 liss-bot <liss-bot@d0h.co> - 108 commits
 Alicia Sykes <alicia@omg.lol> - 138 commits
-repo-visualizer <repo-visualizer@users.noreply.github.com> - 255 commits
-github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 269 commits
+repo-visualizer <repo-visualizer@users.noreply.github.com> - 256 commits
+github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 270 commits
 Alicia Sykes <gh@d0h.co> - 435 commits
 Alicia Sykes <sykes.alicia@gmail.com> - 1403 commits
